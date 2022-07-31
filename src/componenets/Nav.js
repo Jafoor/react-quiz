@@ -4,7 +4,7 @@ import classes from "../styles/Nav.module.css";
 import Account from "./Account";
 
 export default function Nav() {
-  console.log(classes.nav);
+
   return (
     
     <nav className={classes.nav}>

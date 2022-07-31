@@ -2,7 +2,7 @@ import React from 'react';
 import classes from '../styles/Account.module.css';
 
 export default function Account() {
-  console.log(classes)
+  // console.log(classes)
     return (
         <div className={classes.account}>
           <span className="material-icons-outlined" title="Account">
